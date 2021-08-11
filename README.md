@@ -1,6 +1,6 @@
 # OpenPose_Pytorch
 
-My project 1 with Mrs LE THI LAN:))
+My project 1 with Mrs LE THI LAN:)))
 To see my model , run 4_TensorBoardX
 Cd pose_estimation
 cd pose_estimation 
